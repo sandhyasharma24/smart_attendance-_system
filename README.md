@@ -60,7 +60,8 @@ Attendance logs are saved as:
 Name,Timestamp
 Alice,2025-04-17 10:15:22
 Bob,2025-04-17 10:16:03
-🧠 Future Improvements
+
+#🧠 Future Improvements
 Continuous webcam streaming for real-time attendance
 
 GUI enhancements (dark mode, dashboard view)
